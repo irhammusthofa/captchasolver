@@ -3,4 +3,6 @@ Captcha Solver
 
 Cara menggunakannya 
 
-python captchabni.py -i bni.png
+<code>python captchabni.py -i <path_image_file></code>
+
+Contoh <code>python captchabni.py -i bni.png</code>
